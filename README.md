@@ -1,4 +1,4 @@
-# Pixeldrain Bypass Pro Ultra v7
+# Pixeldrain Bypass Omni
 
 Userscript bypass untuk Pixeldrain — download tanpa bandwidth cap, speed multiplication via parallel connections, multi-proxy failover, dan auto-bypass semua proteksi.
 
