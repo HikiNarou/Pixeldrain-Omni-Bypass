@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name            Pixeldrain Bypass Pro Ultra v7
-// @namespace       https://github.com/community/pixeldrain-bypass-pro
+// @namespace       https://github.com/HikiNarou/Pixeldrain-Omni-Bypass
 // @version         7.0.0
 // @description     Ultimate bypass — speed multiplication, multi-proxy parallel, premium-auth, true streaming, adaptive chunking, circuit breaker, bandwidth tracker. Zero bandwidth on pixeldrain.com.
-// @author          enhanced (community, based on MegaLime0, honey, Nurarihyon, hdyzen, nazdridoy)
+// @author          HikiNarou (community, based on MegaLime0, honey, Nurarihyon, hdyzen, nazdridoy)
 // @license         MIT
 // @match           https://pixeldrain.com/*
 // @match           https://pixeldrain.net/*
